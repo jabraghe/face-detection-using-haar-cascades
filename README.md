@@ -2,6 +2,6 @@
 
 Just run the Jupyter notebook :)
 
-Check the video here: <insert_youtube_link>
+Check the video here: https://youtu.be/Gz3b6xVgvvg
 
 Jabraghe
